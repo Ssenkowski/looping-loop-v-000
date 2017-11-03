@@ -1,5 +1,7 @@
 def looping
-  levitation_charm
+  loop do
+    levitation_charm
+  end
 end
 
 #call your method here
