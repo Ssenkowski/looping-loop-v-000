@@ -1,4 +1,4 @@
-def looping
+def looping(levitation_charm)
   loop do
     levitation_charm
   end
