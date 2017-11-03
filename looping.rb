@@ -1,6 +1,6 @@
 def looping(levitation_charm)
   loop do
-    levitation_charm
+    {"#levitation_charm"}
   end
 end
 
